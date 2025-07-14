@@ -11,7 +11,6 @@ const App = () => {
       <Toaster position="top-center" theme="system" />
       <Routes>
         <Route path="/" element={<Home />} />
-
         <Route path="*" element={<Error />} />
       </Routes>
       <Footer/>
