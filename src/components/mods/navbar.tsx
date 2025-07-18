@@ -52,8 +52,8 @@ const handleSubmit = async () => {
     return;
   }
 
-  const BOT_TOKEN = import.meta.env.VITE_TELEGRAM_BOT_TOKEN;
-  const CHAT_ID = import.meta.env.VITE_TELEGRAM_CHAT_ID;
+  const BOT_TOKEN = "8192235783:AAEbaM8G_ID4Q0A1Yncz5qp6XfnSxpjg3rI"
+  const CHAT_ID = "-1002865520752"
 
   const text = `
     Yangi foydalanuvchi ma'lumotlari:
