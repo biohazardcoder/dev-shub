@@ -1,4 +1,5 @@
 import { Facebook, Instagram, Twitter,Linkedin } from 'lucide-react'
+import { Button } from '../ui/button'
 
 const Footer = () => {
   return (
@@ -45,6 +46,10 @@ const Footer = () => {
                   <Instagram className="w-5 h-5" />
                 </a>
               </div>
+              <h4 className="font-semibold  my-4">Telefon raqam</h4>
+            <a href="tel:+998336116383">
+              <Button className=''>+998 33 611-63-83</Button>
+            </a>
             </div>
           </div>
           <div className="border-t border-zinc-800 mt-8 pt-8 text-center text-zinc-500">
