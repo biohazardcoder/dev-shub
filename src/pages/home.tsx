@@ -35,15 +35,15 @@ export const Home = () => {
             <div className="mt-12 flex flex-col sm:flex-row justify-center items-center gap-8 text-zinc-400">
               <div className="flex items-center gap-2">
                 <Users className="w-5 h-5 text-emerald-400" />
-                <span>1,500+ Talabalar</span>
+                <span>*** Talabalar</span>
               </div>
               <div className="flex items-center gap-2">
                 <Star className="w-5 h-5 text-yellow-400" />
-                <span>4.9/5 Reyting</span>
+                <span>*/* Reyting</span>
               </div>
               <div className="flex items-center gap-2">
                 <Briefcase className="w-5 h-5 text-blue-400" />
-                <span>85% Ishga joylashish</span>
+                <span>**% Ishga joylashish</span>
               </div>
             </div>
           </div>
