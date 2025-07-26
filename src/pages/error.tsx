@@ -10,11 +10,11 @@ export const Error = () => {
             <div className="w-full h-[90vh] flex flex-col gap-2 items-center justify-center text-2xl">
                 <h1 className="font-bold"><TriangleAlert size={90}/></h1>
                 <p className="texrt-center font-semibold">
-                    Page not found!
+                    Sahifa topilmadi
                 </p>
                 <Link to={"/"}>
                     <Button variant={"secondary"}>
-                        Back to home
+                        Bosh sahifaga qaytish
                     </Button>
                 </Link>
             </div>

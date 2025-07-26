@@ -47,8 +47,8 @@ const Footer = () => {
                 </a>
               </div>
               <h4 className="font-semibold  my-4">Telefon raqam</h4>
-            <a href="tel:+998336116383">
-              <Button className=''>+998 33 611-63-83</Button>
+            <a href="tel:+998931222819">
+              <Button className=''>+998 93 122 28 19</Button>
             </a>
             </div>
           </div>

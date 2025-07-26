@@ -160,7 +160,7 @@ export const Home = () => {
                     <span>Ma’lumotlar bazasi tuzilmasi va API lar</span>
                   </div>
                 </div>
-                <Link to={"https://t.me/mrbiohazard"} target="_blank">
+                <Link to={"https://t.me/DevsHubAdmin"} target="_blank">
                 <Button className="w-full">
                   Bog'lanish
                 </Button>
@@ -192,7 +192,7 @@ export const Home = () => {
                     <span>App Store va Google Play ga joylashtirish</span>
                   </div>
                 </div>
-             <Link to={"https://t.me/mrbiohazard"} target="_blank">
+             <Link to={"https://t.me/DevsHubAdmin"} target="_blank">
                 <Button className="w-full">
                   Bog'lanish
                 </Button>
